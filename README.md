@@ -1,2 +1,2 @@
 # FreeCodeCamp-Javascript-Final-Projects
-Solving this and the rest of the fcc js certificate challenges gave me the confidence to be able to solve more coding problems like the ones on codewars.com
+These are the answers to the final challenges of the FCC JS program. 100% all my own work. The last one about the cash register was especially tough!
